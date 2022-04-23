@@ -18,6 +18,4 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew956&layout=compact&langs=count=16&theme=gotham"/>
 </div>
 
-https://img.shields.io/badge/bug%20bounty-216338?style=for-the-badge&logo=hackerone&logoColor=white
-
   ![Snake Animation](https://github.com/matthew956/matthew956/blob/output/github-contribution-grid-snake.svg)
