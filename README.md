@@ -12,4 +12,4 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew956&layout=compact&langs=count=16&theme=vue-dark"/>
 </div>
 
-![Snake Animation](https://github.com/matthew956/matthew956/blob/output/github-contribution-snake.svg)
+  ![Snake Animation](https://github.com/matthew956/matthew956/blob/output/github-contribution-grid-snake.svg)
