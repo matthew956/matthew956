@@ -1,4 +1,4 @@
-### Just a random lammer
+## Just a random lammer
 
 - 🔭 I’m currently working on a program that checks for FLI vulnerabilities
 - 🌱 I’m currently learning web development ...
