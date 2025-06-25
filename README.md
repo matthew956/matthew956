@@ -1,9 +1,10 @@
-## Just a random lammer
+## Random white hat hacker
 
-- 🔭 I’m currently working on a program that checks for FLI vulnerabilities
-- 🌱 I’m currently learning web development ...
-- 🤔 I’m looking for help with the FLI program...
-- ⚡ Fun fact: Just started learning hacking ...
+🛡️ Offensive Security Enthusiast | Bug Bounty Hunter  
+🐍 Python Developer | Web Exploitation & Automation  
+📚 Passionate about OWASP Top 10 and vulnerability research  
+🌐 Currently diving deeper into web development (frontend & backend)  
+🔍 Always exploring security flaws to build safer systems  
 
 <div align="center">
   <center><h1>Social Media</h1></center>
@@ -16,5 +17,3 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=matthew956&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew956&layout=compact&langs=count=16&theme=gotham"/>
 </div>
-
-  ![Snake Animation](https://github.com/matthew956/matthew956/blob/output/github-contribution-grid-snake.svg)
