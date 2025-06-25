@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&center=true&vCenter=true&lines=OFFSEC+AND+BUG+BOUNTY+HUNTER;PYTHON+LOVER+🐍;WEB+SECURITY+RESEARCHER;EXPLORING+OWASP+Top+10+🔐" />
 </p>
 
+Please use Github Dark Mode 🙏🙏🙏
+
 ### 💡 ABOUT ME
 
 - 🛡️ Offensive Security Enthusiast | Bug Bounty Hunter  
