@@ -28,8 +28,6 @@
   <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew956&layout=compact&langs_count=10&theme=default"/>
 </p>
 
-### 🧠 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
